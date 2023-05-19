@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   
   # 6 - Replace this URL with your own Git URL from "Quick Setup"
   s.source = {
-      :git => "https://github.com/nikoagge/EmailValidatorFramework/tree/main/EmailValidatorFramework",
+      :git => "https://github.com/nikoagge/EmailValidatorFramework/tree/main/EmailValidatorFramework.git",
       :tag => "#{s.version}"
   }
   
