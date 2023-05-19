@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
   s.author = { "Nikos Aggelidis" => "nikoagge@gmail.com" }
   
   # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-  s.homepage = "https://github.com/nikoagge/EmailValidatorFramework"
+  s.homepage = "https://github.com/nikoagge/EmailValidatorFramework/tree/main/EmailValidatorFramework"
   
   # 6 - Replace this URL with your own Git URL from "Quick Setup"
   s.source = {
-      :git => "https://github.com/nikoagge/EmailValidatorFramework.git",
+      :git => "https://github.com/nikoagge/EmailValidatorFramework/tree/main/EmailValidatorFramework",
       :tag => "#{s.version}"
   }
   
