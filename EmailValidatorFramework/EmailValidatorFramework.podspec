@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.framework = "Foundation"
   
   # 8
-  s.source_files = "EmailValidatorFramework/EmailValidatorFramework/**/*.{swift}"
+  s.source_files = "EmailValidatorFramework/**/*.{swift}"
   
   # 9
   # s.resources = "SharedData/SharedData/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
