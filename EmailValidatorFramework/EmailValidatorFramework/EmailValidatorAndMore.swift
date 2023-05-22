@@ -22,4 +22,8 @@ public struct EmailValidatorAndMore {
     public static func anotherNeedlessFunction() {
         print("Booo!")
     }
+
+    public static func finalFunc() {
+        print("Maybe?!")
+    }
 }
