@@ -18,4 +18,8 @@ public struct EmailValidatorAndMore {
     public static func sayHello() {
         print("Hello world!!!")
     }
+
+    public static func anotherNeedlessFunction() {
+        print("Booo!")
+    }
 }
